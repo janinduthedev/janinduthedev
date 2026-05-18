@@ -1,16 +1,81 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**janinduthedev/janinduthedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✨ Project Name
 
-Here are some ideas to get you started:
+<p align="center">
+  Modern, responsive and powerful web application built with latest technologies.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/yourusername/project-name?style=for-the-badge" />
+<img src="https://img.shields.io/github/forks/yourusername/project-name?style=for-the-badge" />
+<img src="https://img.shields.io/github/license/yourusername/project-name?style=for-the-badge" />
+
+<br />
+<br />
+
+<a href="https://your-live-demo-link.com">🌐 Live Demo</a>
+·
+<a href="https://github.com/yourusername/project-name/issues">🐛 Report Bug</a>
+·
+<a href="https://github.com/yourusername/project-name/pulls">🚀 Request Feature</a>
+
+</div>
+
+---
+
+# 📸 Preview
+
+![Preview](./preview.png)
+
+---
+
+# 🛠️ Tech Stack
+
+### Frontend
+- ⚛️ React / Next.js
+- 🎨 Tailwind CSS
+- 🎭 Framer Motion
+
+### Backend
+- 🟢 Node.js
+- 🚀 Express.js
+- 🍃 MongoDB / MySQL
+
+### Tools
+- 🔐 JWT Authentication
+- 📦 Axios
+- 🧠 Zustand / Redux
+
+---
+
+# ✨ Features
+
+✅ Modern UI/UX  
+✅ Fully Responsive  
+✅ Authentication System  
+✅ Dark Mode  
+✅ API Integration  
+✅ Fast Performance  
+✅ Clean Code Structure  
+✅ SEO Optimized  
+
+---
+
+# 📂 Folder Structure
+
+```bash
+project/
+│
+├── public/
+├── src/
+│   ├── app/
+│   ├── components/
+│   ├── pages/
+│   ├── hooks/
+│   ├── lib/
+│   ├── styles/
+│   └── utils/
+│
+├── package.json
+└── README.md
