@@ -1,81 +1,106 @@
 <div align="center">
 
-# ✨ Project Name
+<img src="./assets/banner.gif" width="100%" />
+
+# 👋 Hey, I'm Your Name
+
+### 🚀 Full Stack Developer | UI/UX Designer | Creative Thinker
 
 <p align="center">
-  Modern, responsive and powerful web application built with latest technologies.
+Building modern, fast and beautiful digital experiences.
 </p>
 
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/yourusername/project-name?style=for-the-badge" />
-<img src="https://img.shields.io/github/forks/yourusername/project-name?style=for-the-badge" />
-<img src="https://img.shields.io/github/license/yourusername/project-name?style=for-the-badge" />
+<br/>
 
-<br />
-<br />
+<a href="https://github.com/yourusername">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<a href="https://your-live-demo-link.com">🌐 Live Demo</a>
-·
-<a href="https://github.com/yourusername/project-name/issues">🐛 Report Bug</a>
-·
-<a href="https://github.com/yourusername/project-name/pulls">🚀 Request Feature</a>
+<a href="https://linkedin.com/in/yourusername">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-# 📸 Preview
+# 🧑‍💻 About Me
 
-![Preview](./preview.png)
+✨ Passionate developer focused on building modern and responsive web applications.
 
----
+💡 I love creating smooth UI/UX experiences with clean and scalable code.
 
-# 🛠️ Tech Stack
+🔥 Currently improving my skills in:
+- Next.js
+- Spring Boot
+- Auth Systems
+- Full Stack Development
+- UI/UX Design
 
-### Frontend
-- ⚛️ React / Next.js
-- 🎨 Tailwind CSS
-- 🎭 Framer Motion
-
-### Backend
-- 🟢 Node.js
-- 🚀 Express.js
-- 🍃 MongoDB / MySQL
-
-### Tools
-- 🔐 JWT Authentication
-- 📦 Axios
-- 🧠 Zustand / Redux
+🎯 Goal:
+To build high-quality digital products that feel premium and user friendly.
 
 ---
 
-# ✨ Features
+# 🚧 Currently Working On
 
-✅ Modern UI/UX  
-✅ Fully Responsive  
-✅ Authentication System  
-✅ Dark Mode  
-✅ API Integration  
-✅ Fast Performance  
-✅ Clean Code Structure  
-✅ SEO Optimized  
+### 🔐 Modern Authentication System
+Building a reusable authentication system using:
+
+- Next.js
+- Auth.js
+- Prisma
+- MongoDB / MySQL
+- JWT Authentication
 
 ---
 
-# 📂 Folder Structure
+# ⚡ Tech Stack
 
-```bash
-project/
-│
-├── public/
-├── src/
-│   ├── app/
-│   ├── components/
-│   ├── pages/
-│   ├── hooks/
-│   ├── lib/
-│   ├── styles/
-│   └── utils/
-│
-├── package.json
-└── README.md
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,spring,mongodb,mysql,prisma,tailwind,figma,git,github,vscode" />
+
+</div>
+
+---
+
+# 📬 Contact Me
+
+<div align="center">
+
+### 💬 Let's Connect
+
+<a href="https://github.com/yourusername">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/yourusername">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/yourusername">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://yourportfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ Thanks for visiting my profile ✨
+
+</div>
