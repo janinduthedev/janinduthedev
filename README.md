@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.gif" width="100%" />
 
-# 👋 Hey, I'm Your Name
+# 👋 Hey, I'm Janindu Tharinda
 
 ### 🚀 Full Stack Developer | UI/UX Designer | Creative Thinker
 
