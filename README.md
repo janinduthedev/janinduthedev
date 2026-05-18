@@ -46,19 +46,6 @@ To build high-quality digital products that feel premium and user friendly.
 
 ---
 
-# 🚧 Currently Working On
-
-### 🔐 Modern Authentication System
-Building a reusable authentication system using:
-
-- Next.js
-- Auth.js
-- Prisma
-- MongoDB / MySQL
-- JWT Authentication
-
----
-
 # ⚡ Tech Stack
 
 <div align="center">
